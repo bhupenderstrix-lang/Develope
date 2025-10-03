@@ -29,3 +29,8 @@ $d= true; #boolean
 $e =$a+$b+$c+$d;
 echo $e; // output 
 ?>
+
+
+
+
+
